@@ -1,4 +1,4 @@
-<img width="1274" height="785" alt="image" src="https://github.com/user-attachments/assets/172fef28-e940-41ad-ac71-3a985fea2bfa" /># 📈 ペアトレード簡易Webアプリ  
+📈 ペアトレード簡易Webアプリ  
 **Pairs Trading Analysis App (Correlation / Cointegration / Hedge Ratio / Bollinger Band)**
 
 本アプリは、2つの株式銘柄を入力するだけで以下の分析を行える **ペアトレード専用のWebアプリ**です。
