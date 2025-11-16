@@ -1,4 +1,4 @@
-# 📈 ペアトレード簡易Webアプリ  
+<img width="1274" height="785" alt="image" src="https://github.com/user-attachments/assets/172fef28-e940-41ad-ac71-3a985fea2bfa" /># 📈 ペアトレード簡易Webアプリ  
 **Pairs Trading Analysis App (Correlation / Cointegration / Hedge Ratio / Bollinger Band)**
 
 本アプリは、2つの株式銘柄を入力するだけで以下の分析を行える **ペアトレード専用のWebアプリ**です。
@@ -25,6 +25,9 @@ OLS 回帰を用いて **price1 = α + β×price2** を推定。
 
 ### ✔ スプレッド・ボリンジャーバンド可視化  
 スプレッドとその **±2σ バンド** を Plotly で描画。
+<img width="1274" height="785" alt="image" src="https://github.com/user-attachments/assets/fe26e408-58b3-46f3-8703-ddda52562318" />
+
+そのペアの動きを可視化できるので、研究・投資判断に利用してください。
 
 ### ✔ Zスコア（20日）  
 スプレッドの標準化値を計算し、売買シグナルの基礎に。
@@ -33,6 +36,7 @@ OLS 回帰を用いて **price1 = α + β×price2** を推定。
 - Z > 2 → Aをショート / Bをロング  
 - Z < -2 → Aをロング / Bをショート  
 - |Z| < 0.5 → ポジションクローズ  
+
 
 ---
 
